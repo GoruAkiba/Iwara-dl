@@ -1,4 +1,4 @@
-# ![icon](.\icon\favicon-32x32.png) Iwara Downloader
+# ![icon](https://github.com/GoruAkiba/Iwara-dl/blob/main/icon/android-icon-36x36.png?raw=true) Iwara Downloader
 > `Iwara-dl` a chrome extension that able to create direct Download Link from Iwara.tv, powerred by [GB-Sources](https://github.com/GoruAkiba)
 
 ## How To Install
