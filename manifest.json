@@ -1,0 +1,27 @@
+{
+	"name": "iwara-dl",
+	"version": "1.0",
+	"manifest_version": 2,
+	"author":"gb_sources",
+	"trakteer":"https://teer.id/gb-sources-santoso",
+
+	"description": "Create Download Link from Iwara.tv",
+
+	"browser_action":{
+		"default_title":"IWARA DOWNLOADER",
+		"default_popup":"popup.html"
+	},
+
+	"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"permissions":[
+		"http://*/*",
+		"https://*/*"
+	],
+	"icons": {
+    "16": "\/icon\/favicon-16x16.png",
+    "32": "\/icon\/favicon-32x32.png",
+    "48": "\/icon\/android-icon-48x48.png",
+    "128": "\/icon\/android-icon-144x144.png"
+  }
+}
